@@ -133,4 +133,4 @@ mlt.show()
 # and also remove  the plotting lines , because you cannot plot multiple lables and 
 # features .
 
-# enjoy the program 😎🥰
+# just copy the whole code or download it and enjoy the program 😎🥰
